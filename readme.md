@@ -7,15 +7,11 @@ This week, we'll be exploring objects by creating an application to help maintai
 - objects
 - HTML & CSS
 
-## Assignment - Function Practice
+## Part 1 - Practice with objects
 
-**Reminder**: Make sure to answer this week's Slack discussion question!
-
-
-Complete the `object-practice.js` file. 
+Complete the `1-object-practice.js` file.
 
 Follow the instructions in the comments to add the required code. (Please Do not remove the instruction comments!)
-
 
 ## Assignment Submission
 Check in your repo, then turn in your work via the Prime Academy Assignment Application at http://primeacademy.io, as usual and don't hesitate to hit up the Slack channel as needed!
